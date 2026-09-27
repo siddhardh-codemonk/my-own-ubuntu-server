@@ -1,0 +1,3 @@
+[submodule "external/docker-osx"]
+	path = external/docker-osx
+	url = https://github.com/sickcodes/Docker-OSX
